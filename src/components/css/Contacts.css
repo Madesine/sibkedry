@@ -1,0 +1,36 @@
+.contacts__header {
+  margin-bottom: 15px;
+}
+
+.contacts__contact-information {
+  margin-top: 70px;
+  align-self: center;
+
+  width: 100%;
+
+  font-size: 18px;
+}
+
+.contacts__contact-information ul {
+  margin-bottom: 30px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.contacts__details {
+  margin-top: 130px;
+  margin-bottom: 30px;
+}
+
+.contacts__details__header {
+  margin-bottom: 30px;
+}
+
+.contacts__details p {
+  font-weight: 500;
+  font-style: italic;
+
+  opacity: .8;
+}
+

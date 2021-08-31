@@ -1,0 +1,21 @@
+.product {
+	flex-basis: 150px;
+
+	margin-bottom: 25px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.product h3 {
+	padding-left: 10px;
+
+	font-size: 1rem;
+
+	color: #215625;
+}
+
+.product img{
+	border-radius: 10px;
+}
